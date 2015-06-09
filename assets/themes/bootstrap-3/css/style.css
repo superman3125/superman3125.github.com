@@ -13,12 +13,22 @@
 /*.navbar .nav {
   float: right; }*/
 
+/* All */
+*{
+    font-family: Microsoft YaHei;
+}
+
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-  color: #f22430;
+  color: #0069D6;
 }
 #footer p{
   text-align: center;
+}
+
+/* nav */
+.navbar{
+    border-radius: 0px;
 }
 
 
