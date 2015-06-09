@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 黄智超的个人博客
+tagline: Front End Developer
 ---
 {% include JB/setup %}
 
