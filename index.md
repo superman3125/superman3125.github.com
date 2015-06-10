@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 黄智超的个人博客
+title: {% Superman's Code + %}
 tagline: Front End Developer
 ---
 {% include JB/setup %}
