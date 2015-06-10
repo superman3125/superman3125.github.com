@@ -1,6 +1,6 @@
 ---
 layout: page
-title: \{% Superman's Code + %\}
+title: "{% Superman's Code + %}"
 tagline: Front End Developer
 ---
 {% include JB/setup %}
