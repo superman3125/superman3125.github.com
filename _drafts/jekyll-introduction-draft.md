@@ -2,7 +2,7 @@
 layout: post
 category : lessons
 tagline: "Supporting tagline"
-tags : [javascript, html, css, bootstrap, jquery, easyui]
+tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
 
