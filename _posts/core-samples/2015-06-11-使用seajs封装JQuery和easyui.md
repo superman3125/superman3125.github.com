@@ -36,6 +36,7 @@ define('jquery',function () {
 {% endcapture %}
 {% include JB/liquid_raw %}
 
+
 [easyui.js]
 {% capture text %}
 define('easyui',function () {
