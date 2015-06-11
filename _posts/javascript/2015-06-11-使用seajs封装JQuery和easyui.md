@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : web前端
 tagline: "Supporting tagline"
 tags : [seajs, jquery, easyui]
 ---
