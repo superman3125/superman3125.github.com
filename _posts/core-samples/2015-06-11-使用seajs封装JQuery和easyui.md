@@ -15,7 +15,7 @@ SeaJS是一个遵循CommonJS规范的JavaScript模块加载框架，可以实现
 
 ### 为什么使用 Sea.js？
 
-我姑且也抄一段官网(http://seajs.org/docs/)的段子吧：
+我姑且也抄一段官网(<a href="http://seajs.org/docs/" target="_blank">http://seajs.org/docs/</a>)的段子吧：
 
 **Sea.js 追求简单、自然的代码书写和组织方式，具有以下核心特性：**
 -简单友好的模块定义规范：Sea.js 遵循 CMD 规范，可以像 Node.js 一般书写模块代码。
