@@ -7,9 +7,10 @@ tagline: Front End Developer
 
 ## 最近文章
 
-<div class="posts">
+<div>
   {% for post in site.posts %}
     <h3><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+    <div class="well">{{ post.content }}</div>
   {% endfor %}
 </div>
 
