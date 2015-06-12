@@ -2,7 +2,6 @@
 layout: page
 title: "{% Superman's Code + %}"
 tagline: Front End Developer
-published: false
 ---
 {% include JB/setup %}
 
@@ -11,7 +10,7 @@ published: false
 <div>
   {% for post in site.posts %}
     <h3><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-    <div class="well">{{ post.content }}</div>
+    <div class="well">{{ post.excerpt }}</div>
   {% endfor %}
 </div>
 
