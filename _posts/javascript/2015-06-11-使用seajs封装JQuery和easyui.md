@@ -2,6 +2,7 @@
 layout: post
 category : web前端
 tags : [seajs, jquery, easyui]
+excerpt_separator: <!-- more -->
 ---
 {% include JB/setup %}
 
