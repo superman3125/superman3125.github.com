@@ -11,6 +11,7 @@ tagline: Front End Developer
   {% for post in site.posts %}
     <h3><span>{{ post.date | date_to_long_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
     <div class="well">{{ post.excerpt }}</div>
+    <a href="{{ BASE_PATH }}{{ post.url }}" class="pull-right">更多...</a>
   {% endfor %}
 </div>
 
