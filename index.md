@@ -12,7 +12,7 @@ tagline: Front End Developer
     <h3><span>{{ post.date | date_to_long_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
     <div class="well">
     {{ post.excerpt }}
-    <p><h3><a href="{{ BASE_PATH }}{{ post.url }}" class="pull-right ">更多...</a></h3></p>
+    <h3 class="text-right"><a href="{{ BASE_PATH }}{{ post.url }}" >更多...</a></h3>
     </div>
 
   {% endfor %}
