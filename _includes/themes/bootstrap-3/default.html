@@ -46,27 +46,58 @@
     <div id="wrap">
         <div class="site-header">
             <nav class="navbar navbar-default" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-        </div>
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                  <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+                </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
-          </ul>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+                  <ul class="nav navbar-nav">
+                    {% assign pages_list = site.pages %}
+                    {% assign group = 'navigation' %}
+                    {% include JB/pages_list %}
+                  </ul>
 
-        </div><!-- /.navbar-collapse -->
-      </nav>
+                </div><!-- /.navbar-collapse -->
+          </nav>
+
+            <ul class="avatar-grid">
+
+                <li>
+
+                    <div class="avatar-item avatar-img">
+
+                        <div class="avatar-info-wrap">
+
+                            <div class="avatar-info">
+
+                                <div class="avatar-info-front avatar-img"></div>
+
+                                <div class="avatar-info-back">
+
+                                    <h3>黄智超</h3>
+
+                                    <p>web前端工程师</p>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </li>
+
+            </ul>
+
         </div>
       <div class="container">
         {{ content }}
