@@ -42,6 +42,7 @@ h1, h2, h3, h4 {
 }
 .navbar{
     border-radius: 0px;
+    opacity: .5;
 }
 .navbar-brand img{
     width: 16px;
