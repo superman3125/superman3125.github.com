@@ -36,6 +36,10 @@ h1, h2, h3, h4 {
 }
 
 /* nav */
+#wrap {
+    height:300px;
+    background:#303538 no-repeat center center;
+}
 .navbar{
     border-radius: 0px;
 }
