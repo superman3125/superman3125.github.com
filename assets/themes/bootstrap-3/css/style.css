@@ -282,7 +282,7 @@ h1, h2, h3, h4 {
 }
 
 .avatar-img {
-    background-image: url(images/me.png);
+    background-image: url(../images/me.png);
     background-position: center center;
     background-repeat: no-repeat;
 }
