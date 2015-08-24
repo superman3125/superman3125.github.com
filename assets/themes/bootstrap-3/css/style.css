@@ -111,6 +111,10 @@ h1, h2, h3, h4 {
   color: #FFF; }
 
 
+/* 简历 */
+.resume h1 {
+    text-align: center;
+}
 /* avatar grid*/
 .avatar-grid {
     margin: 20px 0 0 0;
