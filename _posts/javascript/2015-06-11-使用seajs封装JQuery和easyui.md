@@ -28,7 +28,7 @@ SeaJS是一个遵循CommonJS规范的JavaScript模块加载框架，可以实现
 **Sea.js 还提供常用插件，非常有助于开发调试和性能优化，并具有丰富的可扩展接口。**
 
 
-### 好了，废话不多说，下面采用cmd规范封装一下
+### 好了，广告时间结束了，下面采用cmd规范简单封装(封装这个词会不会很装啊？值得想想)一下
 一个单独的js文件就是一个模块，下面以jquery.js和easyui.js为例：
 <p>[jquery.js]</p>
 {% capture text %}
@@ -53,6 +53,5 @@ define('easyui',function () {
 {% endcapture %}
 {% include JB/liquid_raw %}
 
-**谢谢收看** .
 
-## 完
+## 没有了，想到了再补充
