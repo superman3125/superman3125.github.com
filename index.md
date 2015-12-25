@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "bastards"
+title: "Bastards"
 motto: "I grow; I prosper: Now, gods, stand up for bastards!"
 tagline: Front End Developer
 ---
