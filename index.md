@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "{% Superman's Code + %}"
+title: "bastards"
+motto: "I grow; I prosper: Now, gods, stand up for bastards!"
 tagline: Front End Developer
 ---
 {% include JB/setup %}

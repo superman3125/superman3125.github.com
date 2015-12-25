@@ -75,7 +75,6 @@ JB :
   categories_path : /categories.html
   tags_path : /skills.html
   atom_path : /atom.xml
-  rss_path : /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
