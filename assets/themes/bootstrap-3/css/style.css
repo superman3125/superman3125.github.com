@@ -352,6 +352,7 @@ h1, h2, h3, h4 {
 .info-box-icon{
     width:160px;
     height:160px;
+    overflow:hidden;
     border-radius: 50%
 }
 
