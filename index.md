@@ -13,7 +13,7 @@ tagline: Front End Developer
     <h3>{{ post.title }}</h3>
     <div class="post-brief">
     {{ post.excerpt }}
-    <div class="post-more text-right"><span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span><a href="{{ BASE_PATH }}{{ post.url }}" >更多...</a></div>
+    <div class="post-more text-right text-muted"><span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span><a href="{{ BASE_PATH }}{{ post.url }}" >更多...</a></div>
     </div>
   {% endfor %}
 </div>
