@@ -17,6 +17,15 @@ tagline: Front End Developer
     </div>
   {% endfor %}
 </div>
-<div class="col-sm-4"></div>
+<div class="col-sm-4">
+<div class="info-box  drop-shadow">
+    <h3 class="info-box-title">关于</h3>
+    <div class="chart-icon">
+    </div>
+    <span class="stats">
+
+    </span>
+</div>
+</div>
 
 
