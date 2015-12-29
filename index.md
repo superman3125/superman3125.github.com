@@ -6,7 +6,7 @@ tagline: Front End Developer
 ---
 {% include JB/setup %}
 
-## 我的文章
+## 偶尔记录下
 
 <div class="col-sm-8 blog-main">
   {% for post in site.posts %}
