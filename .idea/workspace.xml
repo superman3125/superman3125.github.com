@@ -61,8 +61,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5214106" vertical-offset="6291" max-vertical-offset="6802">
-              <caret line="342" column="21" selection-start-line="342" selection-start-column="21" selection-end-line="342" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.6171285" vertical-offset="6272" max-vertical-offset="6802">
+              <caret line="343" column="21" selection-start-line="343" selection-start-column="21" selection-end-line="343" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -825,18 +825,6 @@
       <workItem from="1451355134790" duration="2226000" />
       <workItem from="1451358592035" duration="7878000" />
     </task>
-    <task id="LOCAL-00130" summary="译文">
-      <created>1445939114993</created>
-      <option name="number" value="00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1445939114994</updated>
-    </task>
-    <task id="LOCAL-00131" summary="译文">
-      <created>1445999284004</created>
-      <option name="number" value="00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1445999284004</updated>
-    </task>
     <task id="LOCAL-00132" summary="译文">
       <created>1445999701473</created>
       <option name="number" value="00132" />
@@ -1119,11 +1107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1451380170991</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary="修改">
+      <created>1451380262019</created>
+      <option name="number" value="00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1451380262019</updated>
+    </task>
+    <task id="LOCAL-00180" summary="修改">
+      <created>1451380429401</created>
+      <option name="number" value="00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1451380429401</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97504000" />
+    <option name="totallyTimeSpent" value="97758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1605,8 +1605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5214106" vertical-offset="6291" max-vertical-offset="6802">
-          <caret line="342" column="21" selection-start-line="342" selection-start-column="21" selection-end-line="342" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.6171285" vertical-offset="6272" max-vertical-offset="6802">
+          <caret line="343" column="21" selection-start-line="343" selection-start-column="21" selection-end-line="343" selection-end-column="21" />
           <folding />
         </state>
       </provider>
