@@ -37,7 +37,16 @@ h1, h2, h3, h4 {
 
 /* nav */
 #wrap .site-header{
-
+    background-color: #fdfdfd;
+    border-bottom: 1px solid #f0f0f0;
+}
+.header-nav{
+    height: 60px;
+    padding: 0px 20px;
+    opacity: 0.9;
+    font-weight: 700;
+    color: #2a3749;
+    font-size: 18px;
 }
 .navbar{
     border-radius: 0px;
@@ -315,3 +324,4 @@ h1, h2, h3, h4 {
     font-size:14px;
     float: left;
 }
+
