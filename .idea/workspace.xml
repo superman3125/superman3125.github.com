@@ -41,8 +41,8 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.214286" vertical-offset="797" max-vertical-offset="1957">
-              <caret line="57" column="69" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="69" />
+            <state vertical-scroll-proportion="-0.71428573" vertical-offset="1481" max-vertical-offset="1957">
+              <caret line="79" column="19" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -61,8 +61,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.697733" vertical-offset="863" max-vertical-offset="6384">
-              <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.4282116" vertical-offset="495" max-vertical-offset="6441">
+              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -825,12 +825,6 @@
       <workItem from="1451355134790" duration="2226000" />
       <workItem from="1451358592035" duration="7878000" />
     </task>
-    <task id="LOCAL-00126" summary="对象的拷贝">
-      <created>1441617299754</created>
-      <option name="number" value="00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1441617299754</updated>
-    </task>
     <task id="LOCAL-00127" summary="对象的拷贝">
       <created>1441618426048</created>
       <option name="number" value="00127" />
@@ -1119,11 +1113,17 @@
       <option name="project" value="LOCAL" />
       <updated>1451377995527</updated>
     </task>
-    <option name="localTasksCounter" value="175" />
+    <task id="LOCAL-00175" summary="修改">
+      <created>1451378157255</created>
+      <option name="number" value="00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1451378157255</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95400000" />
+    <option name="totallyTimeSpent" value="95548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1597,16 +1597,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.214286" vertical-offset="797" max-vertical-offset="1957">
-          <caret line="57" column="69" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="69" />
+        <state vertical-scroll-proportion="-0.71428573" vertical-offset="1481" max-vertical-offset="1957">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.697733" vertical-offset="863" max-vertical-offset="6384">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.4282116" vertical-offset="495" max-vertical-offset="6441">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
           <folding />
         </state>
       </provider>
