@@ -10,7 +10,7 @@ tagline: Front End Developer
 
 <div class="col-sm-8 blog-main">
   {% for post in site.posts %}
-    <h3><span>{{ post.date | date_to_long_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+    <h3>{{ post.title }}<span class="pull-right">{{ post.date | date_to_long_string }}</span></h3>
     <div class="post-brief">
     {{ post.excerpt }}
     <div class="post-more text-right"><a href="{{ BASE_PATH }}{{ post.url }}" >更多...</a></div>
