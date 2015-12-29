@@ -288,7 +288,7 @@ h1, h2, h3, h4 {
 }
 
 .blog-main > h3{
-    border: 1px solid #333;
+    border: 1px solid #9C9C9C;
     padding: 8px 5px;
     color: #333;
     background: #e3e3e3;
@@ -297,7 +297,7 @@ h1, h2, h3, h4 {
     margin-bottom: 0px;
 }
 .blog-main > .post-brief{
-    border:1px solid #333;
+    border:1px solid #c1cad5;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
     border-top:0px;
