@@ -8,15 +8,15 @@ tagline: Front End Developer
 
 ## 我的文章
 
-<div>
+<div class="col-sm-8 blog-main">
   {% for post in site.posts %}
     <h3><span>{{ post.date | date_to_long_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
     <div class="post-brief">
     {{ post.excerpt }}
     <h3 class="text-right"><a href="{{ BASE_PATH }}{{ post.url }}" >更多...</a></h3>
     </div>
-
   {% endfor %}
 </div>
+<div class="col-sm-4"></div>
 
 
