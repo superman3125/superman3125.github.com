@@ -301,6 +301,7 @@ h1, h2, h3, h4 {
     border-top:0px;
     padding:15px;
 }
+.blog-main h2,
 .blog-main .post-more{
     font-size:20px;
 }
