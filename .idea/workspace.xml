@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="943578c8-78dd-45a5-850a-c20a358f417d" name="Default" comment="修改">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="943578c8-78dd-45a5-850a-c20a358f417d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" afterPath="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="superman3125.github.com.iws" />
@@ -30,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.96" vertical-offset="11" max-vertical-offset="532">
-              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.6910377" vertical-offset="11" max-vertical-offset="532">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -60,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.83549786" vertical-offset="5561" max-vertical-offset="6099">
-              <caret line="313" column="19" selection-start-line="313" selection-start-column="19" selection-end-line="313" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="5561" max-vertical-offset="6118">
+              <caret line="311" column="21" selection-start-line="311" selection-start-column="21" selection-end-line="311" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -133,8 +131,8 @@
         <option value="$PROJECT_DIR$/_posts/css/2015-10-28-CSS之块级格式化上下文.md" />
         <option value="$PROJECT_DIR$/_posts/javascript/2015-06-11-使用seajs封装JQuery和easyui.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" />
+        <option value="$PROJECT_DIR$/index.md" />
       </list>
     </option>
   </component>
@@ -832,37 +830,7 @@
       <workItem from="1450937587424" duration="1244000" />
       <workItem from="1451009643136" duration="15149000" />
       <workItem from="1451355134790" duration="2226000" />
-      <workItem from="1451358592035" duration="6325000" />
-    </task>
-    <task id="LOCAL-00118" summary="修改连接">
-      <created>1440405290620</created>
-      <option name="number" value="00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1440405290621</updated>
-    </task>
-    <task id="LOCAL-00119" summary="修改简历">
-      <created>1440405913869</created>
-      <option name="number" value="00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1440405913869</updated>
-    </task>
-    <task id="LOCAL-00120" summary="修改头像">
-      <created>1440406969233</created>
-      <option name="number" value="00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1440406969233</updated>
-    </task>
-    <task id="LOCAL-00121" summary="修改头像">
-      <created>1440407035324</created>
-      <option name="number" value="00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1440407035324</updated>
-    </task>
-    <task id="LOCAL-00122" summary="修改头像">
-      <created>1440407392523</created>
-      <option name="number" value="00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1440407392523</updated>
+      <workItem from="1451358592035" duration="7878000" />
     </task>
     <task id="LOCAL-00123" summary="修改头像">
       <created>1440407540644</created>
@@ -1128,11 +1096,41 @@
       <option name="project" value="LOCAL" />
       <updated>1451369994907</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="修改">
+      <created>1451370824790</created>
+      <option name="number" value="00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1451370824790</updated>
+    </task>
+    <task id="LOCAL-00168" summary="修改">
+      <created>1451372069182</created>
+      <option name="number" value="00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1451372069182</updated>
+    </task>
+    <task id="LOCAL-00169" summary="修改">
+      <created>1451372336939</created>
+      <option name="number" value="00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1451372336939</updated>
+    </task>
+    <task id="LOCAL-00170" summary="修改">
+      <created>1451372444885</created>
+      <option name="number" value="00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1451372444885</updated>
+    </task>
+    <task id="LOCAL-00171" summary="修改">
+      <created>1451372511104</created>
+      <option name="number" value="00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1451372511104</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91229000" />
+    <option name="totallyTimeSpent" value="92782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1208,6 +1206,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
@@ -1602,18 +1601,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
+    <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.96" vertical-offset="11" max-vertical-offset="532">
-          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="5561" max-vertical-offset="6118">
+          <caret line="311" column="21" selection-start-line="311" selection-start-column="21" selection-end-line="311" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83549786" vertical-offset="5561" max-vertical-offset="6099">
-          <caret line="313" column="19" selection-start-line="313" selection-start-column="19" selection-end-line="313" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.6910377" vertical-offset="11" max-vertical-offset="532">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
           <folding />
         </state>
       </provider>
