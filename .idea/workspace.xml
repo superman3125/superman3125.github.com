@@ -61,8 +61,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6884956" vertical-offset="5938" max-vertical-offset="6840">
-              <caret line="333" column="14" selection-start-line="333" selection-start-column="14" selection-end-line="333" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.5628319" vertical-offset="6313" max-vertical-offset="6897">
+              <caret line="349" column="39" selection-start-line="349" selection-start-column="39" selection-end-line="349" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -548,25 +548,7 @@
       <workItem from="1451355134790" duration="2226000" />
       <workItem from="1451358592035" duration="7878000" />
       <workItem from="1451381478837" duration="273000" />
-      <workItem from="1451381764990" duration="578000" />
-    </task>
-    <task id="LOCAL-00135" summary="译文">
-      <created>1446000028640</created>
-      <option name="number" value="00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1446000028641</updated>
-    </task>
-    <task id="LOCAL-00136" summary="译文">
-      <created>1446003563976</created>
-      <option name="number" value="00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1446003563976</updated>
-    </task>
-    <task id="LOCAL-00137" summary="译文">
-      <created>1446003689502</created>
-      <option name="number" value="00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1446003689502</updated>
+      <workItem from="1451381764990" duration="1029000" />
     </task>
     <task id="LOCAL-00138" summary="修复错误">
       <created>1446016536683</created>
@@ -844,11 +826,29 @@
       <option name="project" value="LOCAL" />
       <updated>1451382239729</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="修改">
+      <created>1451382348182</created>
+      <option name="number" value="00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1451382348185</updated>
+    </task>
+    <task id="LOCAL-00185" summary="修改">
+      <created>1451382573267</created>
+      <option name="number" value="00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1451382573267</updated>
+    </task>
+    <task id="LOCAL-00186" summary="修改">
+      <created>1451382694257</created>
+      <option name="number" value="00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1451382694257</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99092000" />
+    <option name="totallyTimeSpent" value="99543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1316,8 +1316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6884956" vertical-offset="5938" max-vertical-offset="6840">
-          <caret line="333" column="14" selection-start-line="333" selection-start-column="14" selection-end-line="333" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.5628319" vertical-offset="6313" max-vertical-offset="6897">
+          <caret line="349" column="39" selection-start-line="349" selection-start-column="39" selection-end-line="349" selection-end-column="39" />
           <folding />
         </state>
       </provider>

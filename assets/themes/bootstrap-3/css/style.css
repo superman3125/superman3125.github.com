@@ -350,7 +350,7 @@ h1, h2, h3, h4 {
     border-bottom: rgba(0,0,0,.3) solid 1px
 }
 .info-box-icon{
-    height:160px;
+    width:160px;
     height:160px;
     border-radius: 50%
 }
