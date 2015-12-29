@@ -61,8 +61,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60201514" vertical-offset="863" max-vertical-offset="6403">
-              <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.697733" vertical-offset="863" max-vertical-offset="6384">
+              <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -825,12 +825,6 @@
       <workItem from="1451355134790" duration="2226000" />
       <workItem from="1451358592035" duration="7878000" />
     </task>
-    <task id="LOCAL-00125" summary="对象的拷贝">
-      <created>1441617273127</created>
-      <option name="number" value="00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1441617273133</updated>
-    </task>
     <task id="LOCAL-00126" summary="对象的拷贝">
       <created>1441617299754</created>
       <option name="number" value="00126" />
@@ -1119,11 +1113,17 @@
       <option name="project" value="LOCAL" />
       <updated>1451377784414</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="修改">
+      <created>1451377995527</created>
+      <option name="number" value="00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1451377995527</updated>
+    </task>
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95238000" />
+    <option name="totallyTimeSpent" value="95400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1605,8 +1605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60201514" vertical-offset="863" max-vertical-offset="6403">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.697733" vertical-offset="863" max-vertical-offset="6384">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
           <folding />
         </state>
       </provider>
