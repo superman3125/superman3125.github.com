@@ -340,8 +340,10 @@ h1, h2, h3, h4 {
     margin-top: 20px;
 }
 .info-box h3 {
-    font-size: 13px;
     padding: 8px 5px;
+    height: 44px;
+    line-height: 28px;
+    font-size: 20px;
     color: rgba(0,0,0,.5);
     border-bottom: rgba(0,0,0,.3) solid 1px
 }
