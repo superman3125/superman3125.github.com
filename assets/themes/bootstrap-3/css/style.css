@@ -335,6 +335,9 @@ h1, h2, h3, h4 {
     border-color: #bbb;
     box-shadow: 0 1px 1px 0 rgba(0,0,0,.2)
 }
+.info-box{
+    padding:10px
+}
 .info-box h3 {
     font-size: 13px;
     margin-top: 20px;
