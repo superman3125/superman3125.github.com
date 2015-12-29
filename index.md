@@ -20,7 +20,8 @@ tagline: Front End Developer
 <div class="col-sm-4">
 <div class="info-box  drop-shadow">
     <h3 class="info-box-title">关于</h3>
-    <div class="chart-icon">
+    <div class="info-box-icon">
+     <img src="https://avatars2.githubusercontent.com/u/5801806?v=3&s=160" />
     </div>
     <span class="stats">
 
