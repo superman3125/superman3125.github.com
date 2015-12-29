@@ -309,6 +309,7 @@ h1, h2, h3, h4 {
 .blog-main h2,
 .blog-main .post-more{
     font-size:20px;
+    line-height:20px;
 }
 .blog-main .post-date{
     font-size:14px;
