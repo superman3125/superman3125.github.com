@@ -10,10 +10,10 @@ tagline: Front End Developer
 
 <div class="col-sm-8 blog-main">
   {% for post in site.posts %}
-    <h3>{{ post.title }}<span class="pull-right">{{ post.date | YYYY-MM-DD HH:MM:S }}</span></h3>
+    <h3>{{ post.title }}</h3>
     <div class="post-brief">
     {{ post.excerpt }}
-    <div class="post-more text-right"><a href="{{ BASE_PATH }}{{ post.url }}" >更多...</a></div>
+    <div class="post-more text-right"><span class="post-date">{{ post.date | YYYY-MM-DD }}</span><a href="{{ BASE_PATH }}{{ post.url }}" >更多...</a></div>
     </div>
   {% endfor %}
 </div>
