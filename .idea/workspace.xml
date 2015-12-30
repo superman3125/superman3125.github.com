@@ -28,21 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.72" vertical-offset="328" max-vertical-offset="1026">
-              <caret line="34" column="23" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.5673624" vertical-offset="328" max-vertical-offset="1026">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71588784" vertical-offset="7578" max-vertical-offset="8246">
-              <caret line="419" column="20" selection-start-line="419" selection-start-column="20" selection-end-line="419" selection-end-column="20" />
+            <state vertical-scroll-proportion="-8.333333" vertical-offset="7749" max-vertical-offset="8284">
+              <caret line="421" column="20" selection-start-line="421" selection-start-column="20" selection-end-line="421" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -648,13 +648,7 @@
       <workItem from="1451358592035" duration="7878000" />
       <workItem from="1451381478837" duration="273000" />
       <workItem from="1451381764990" duration="1983000" />
-      <workItem from="1451440160719" duration="15547000" />
-    </task>
-    <task id="LOCAL-00180" summary="修改">
-      <created>1451380429401</created>
-      <option name="number" value="00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1451380429401</updated>
+      <workItem from="1451440160719" duration="15724000" />
     </task>
     <task id="LOCAL-00181" summary="修改">
       <created>1451380516586</created>
@@ -944,11 +938,17 @@
       <option name="project" value="LOCAL" />
       <updated>1451462584801</updated>
     </task>
-    <option name="localTasksCounter" value="229" />
+    <task id="LOCAL-00229" summary="修改">
+      <created>1451462762811</created>
+      <option name="number" value="00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1451462762811</updated>
+    </task>
+    <option name="localTasksCounter" value="230" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116044000" />
+    <option name="totallyTimeSpent" value="116221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1415,18 +1415,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
+    <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.72" vertical-offset="328" max-vertical-offset="1026">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="23" />
+        <state vertical-scroll-proportion="-8.333333" vertical-offset="7749" max-vertical-offset="8284">
+          <caret line="421" column="20" selection-start-line="421" selection-start-column="20" selection-end-line="421" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71588784" vertical-offset="7578" max-vertical-offset="8246">
-          <caret line="419" column="20" selection-start-line="419" selection-start-column="20" selection-end-line="419" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.5673624" vertical-offset="328" max-vertical-offset="1026">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
           <folding />
         </state>
       </provider>
