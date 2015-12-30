@@ -10,7 +10,7 @@ group: navigation
 <div class="container booksWall" >
     <div class="row">
         {% for book in site.data.books %}
-        <div class="col-lg-3 animated slideInDown">
+        <div class="col-lg-3 animated slideInUp">
             <a href="javacript:void(0)" class="drop-shadow">
                 <p>{{ book.des }}</p>
                 <img src="{{ ASSET_PATH }}{{ book.url }}" alt="{{ book.des }}"/>
