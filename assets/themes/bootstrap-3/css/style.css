@@ -310,7 +310,8 @@ h1, h2, h3, h4 {
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
 }
-.blog-main .post-card:hover{
+.blog-main .post-card:hover,
+.drop-shadow:hover{
     box-shadow: 0 0 10px rgba(0,0,0,0.9);
     -moz-box-shadow: 0 0 10px rgba(0,0,0,0.9);
     -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.9);
