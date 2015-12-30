@@ -421,6 +421,9 @@ h1, h2, h3, h4 {
 .time-line{
     margin-top:50px;
 }
+.time-line ul{
+    margin-left:80px;
+}
 .time-line ul li{
     position: relative;
     list-style: none;
@@ -443,4 +446,9 @@ h1, h2, h3, h4 {
     background-color: rgba(0,0,0,0.05);
     border-radius: 50%;
     border: 5px #f0ad4e solid;
+}
+.time-line ul li .time-line-date{
+    position: absolute;
+    color:#7f8c97;
+    top: 22px;
 }

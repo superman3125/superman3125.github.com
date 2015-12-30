@@ -31,6 +31,7 @@ tagline: Front End Developer
   <ul>
     {% for post in site.posts %}
     <li>
+    <span class="time-line-date">{{ post.date | date: "%Y-%m-%d" }}</span>
     <span class="time-line-dot"></span>
     <div class="popover right">
           <div class="arrow"></div>
