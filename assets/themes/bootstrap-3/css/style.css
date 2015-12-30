@@ -425,11 +425,11 @@ h1, h2, h3, h4 {
     position: relative;
     list-style: none;
     height:120px;
-    left: 22px;
     border-left: 2px dashed gray;
 }
 .time-line ul li .popover{
     display: block;
+    left: 22px;
 }
 .time-line ul li .time-line-dot{
     position: absolute;
