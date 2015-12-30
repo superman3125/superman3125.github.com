@@ -450,5 +450,6 @@ h1, h2, h3, h4 {
 .time-line ul li .time-line-date{
     position: absolute;
     color:#7f8c97;
-    top: 22px;
+    top: 21px;
+    left: -100px;
 }
