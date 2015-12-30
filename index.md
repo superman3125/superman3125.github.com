@@ -6,9 +6,9 @@ tagline: Front End Developer
 ---
 {% include JB/setup %}
 
-<div class="col-sm-8 blog-main animated slideInLeft">
+<div class="col-sm-8 blog-main ">
   {% for post in site.posts %}
-    <div class="post-card">
+    <div class="post-card animated slideInLeft">
     <h3>{{ post.title }}</h3>
     <div class="post-brief">
     {{ post.excerpt }}
