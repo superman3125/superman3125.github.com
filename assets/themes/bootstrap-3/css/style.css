@@ -18,7 +18,7 @@
     font-family: Microsoft YaHei;
 }
 body{
-    overflow-x: hidden;
+    overflow-x: hidden!important;
 }
 .content img{
     padding: 4px;
