@@ -17,6 +17,9 @@
 *{
     font-family: Microsoft YaHei;
 }
+body{
+    overflow-x: hidden;
+}
 .content img{
     padding: 4px;
     background-color: #fff;
