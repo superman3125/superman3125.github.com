@@ -34,6 +34,9 @@ body{
 h1, h2, h3, h4 {
   color: #0069D6;
 }
+.page-header{
+    border:1px dashed #333;
+}
 #footer {
     margin-top:20px
 }
