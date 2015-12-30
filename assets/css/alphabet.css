@@ -5,6 +5,21 @@
     padding: 0 0 0 22px;
     margin: 44px 0 0 0
 }
+.alphabet-box div {
+    -webkit-transition: all linear 100ms;
+    -moz-transition: all linear 100ms;
+    -ms-transition: all linear 100ms;
+    -o-transition: all linear 100ms;
+    transition: all linear 100ms
+}
+
+.alphabet-box div:before,.alphabet-box div:after {
+    -webkit-transition: all linear 100ms;
+    -moz-transition: all linear 100ms;
+    -ms-transition: all linear 100ms;
+    -o-transition: all linear 100ms;
+    transition: all linear 100ms
+}
 .A {
     position: relative;
     left: 30px;
