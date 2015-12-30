@@ -1,4 +1,9 @@
- .A {
+.alphabet-box {
+    height: 150px;
+    float: left;
+    margin: 44px 0 0 0
+}
+.A {
     position: relative;
     left: 30px;
     width: 60px;
