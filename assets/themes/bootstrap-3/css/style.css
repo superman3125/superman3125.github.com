@@ -387,6 +387,8 @@ h1, h2, h3, h4 {
     margin-bottom: 0px;
 }
 .booksWall .col-lg-3 img{
+    width:70px;
+    height:100px;
     cursor: pointer;
     -webkit-transition: transform .3s;
     -moz-transition: transform .3s;
