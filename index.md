@@ -6,7 +6,7 @@ tagline: Front End Developer
 ---
 {% include JB/setup %}
 
-<div class="col-sm-8 blog-main">
+<div class="col-sm-8 blog-main animated slideInLeft">
   {% for post in site.posts %}
     <h3>{{ post.title }}</h3>
     <div class="post-brief">
@@ -15,7 +15,7 @@ tagline: Front End Developer
     </div>
   {% endfor %}
 </div>
-<div class="col-sm-4">
+<div class="col-sm-4 animated slideInRight">
 <div class="info-box  drop-shadow">
     <h3 class="info-box-title">关于</h3>
     <div class="info-box-icon">
