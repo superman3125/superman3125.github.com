@@ -390,6 +390,7 @@ h1, h2, h3, h4 {
     height: 188px;
     overflow: hidden;
     padding-top:20px;
+    border-radius: 10px;
 }
 .booksWall .col-lg-3 p{
     position: absolute;
