@@ -428,7 +428,7 @@ h1, h2, h3, h4 {
     position: relative;
     list-style: none;
     height:120px;
-    border-left: 2px dashed gray;
+    border-left: dashed 1px #dcdddd;
 }
 .time-line ul li .popover{
     display: block;
@@ -443,7 +443,7 @@ h1, h2, h3, h4 {
     display: inline-block;
     width: 16px;
     height: 16px;
-    background-color: rgba(0,0,0,0.05);
+    background-color: rgba(255, 255, 255, 0.99);
     border-radius: 50%;
     border: 5px #f0ad4e solid;
 }
