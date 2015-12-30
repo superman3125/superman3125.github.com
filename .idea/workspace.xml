@@ -62,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/books.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.707635" vertical-offset="0" max-vertical-offset="589">
-              <caret line="20" column="82" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
+              <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -663,13 +663,7 @@
       <workItem from="1451358592035" duration="7878000" />
       <workItem from="1451381478837" duration="273000" />
       <workItem from="1451381764990" duration="1983000" />
-      <workItem from="1451440160719" duration="4449000" />
-    </task>
-    <task id="LOCAL-00145" summary="修改">
-      <created>1451011127858</created>
-      <option name="number" value="00145" />
-      <option name="project" value="LOCAL" />
-      <updated>1451011127859</updated>
+      <workItem from="1451440160719" duration="4552000" />
     </task>
     <task id="LOCAL-00146" summary="修改">
       <created>1451272317321</created>
@@ -959,11 +953,17 @@
       <option name="project" value="LOCAL" />
       <updated>1451444524560</updated>
     </task>
-    <option name="localTasksCounter" value="194" />
+    <task id="LOCAL-00194" summary="修改">
+      <created>1451444617251</created>
+      <option name="number" value="00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1451444617251</updated>
+    </task>
+    <option name="localTasksCounter" value="195" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104946000" />
+    <option name="totallyTimeSpent" value="105049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1430,7 +1430,7 @@
     <entry file="file://$PROJECT_DIR$/books.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.707635" vertical-offset="0" max-vertical-offset="589">
-          <caret line="20" column="82" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
+          <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
           <folding />
         </state>
       </provider>

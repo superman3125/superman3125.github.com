@@ -17,8 +17,8 @@ group: navigation
         {% for photo in site.data.books %}
         <div class="col-lg-3">
             <a href="javacript:void(0)">
-                <p>{{ books.des }}</p>
-                <img src="{{ ASSET_PATH }}{{ books.url }}" alt="{{ books.des }}"/>
+                <p>{{ book.des }}</p>
+                <img src="{{ ASSET_PATH }}{{ book.url }}" alt="{{ book.des }}"/>
             </a>
         </div>
         {% endfor %}
