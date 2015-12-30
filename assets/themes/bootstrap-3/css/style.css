@@ -418,4 +418,8 @@ h1, h2, h3, h4 {
 /*时间线*/
 .time-line ul li{
     position: relative;
+    height:200px;
+}
+.time-line ul li .popover{
+    display: block;
 }
