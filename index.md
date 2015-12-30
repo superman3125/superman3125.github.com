@@ -27,7 +27,7 @@ tagline: Front End Developer
 
     </span>
 </div>
-<div class="time-line">
+<div class="time-line  animated slideInRight">
   <ul>
     {% for post in site.posts %}
     <li>
