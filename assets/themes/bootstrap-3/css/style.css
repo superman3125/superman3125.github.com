@@ -356,3 +356,45 @@ h1, h2, h3, h4 {
     border-radius: 50%
 }
 
+
+/*书本墙*/
+.booksWall{
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+.booksWall .col-lg-3{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.booksWall .col-lg-3 a{
+    position: relative;
+    display: block;
+    width: 250px;
+    height: 188px;
+    overflow: hidden;
+}
+.booksWall .col-lg-3 p{
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+    background: rgba(0,0,0,0.6) none repeat scroll !important;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    margin-bottom: 0px;
+}
+.booksWall .col-lg-3 img{
+    cursor: pointer;
+    -webkit-transition: transform .3s;
+    -moz-transition: transform .3s;
+    -o-transition: transform .3s;
+}
+.booksWall .col-lg-3 img:hover{
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -o-transform: scale(1.05)
+}
+
