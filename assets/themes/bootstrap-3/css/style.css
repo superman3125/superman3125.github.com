@@ -435,12 +435,12 @@ h1, h2, h3, h4 {
 }
 .time-line ul li .time-line-dot{
     position: absolute;
-    top: 36px;
+    top: 22px;
     left: -9px;
     display: inline-block;
     width: 16px;
     height: 16px;
-    background-color: blue;
+    background-color: rgba(0,0,0,0.05);
     border-radius: 50%;
-    border: 1px green solid;
+    border: 5px #f0ad4e solid;
 }
