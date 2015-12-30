@@ -48,6 +48,7 @@ h1, h2, h3, h4 {
 #wrap .site-header{
     background-color: #fdfdfd;
     border-bottom: 1px solid #f0f0f0;
+    box-shadow: 0px 1px 1px #333;
 }
 
 .header-nav{
