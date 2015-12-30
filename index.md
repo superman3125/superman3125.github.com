@@ -34,7 +34,6 @@ tagline: Front End Developer
     <span class="time-line-dot"></span>
     <div class="popover right">
           <div class="arrow"></div>
-          <h3 class="popover-title">{{ post.date | date: "%Y-%m-%d" }}</h3>
           <div class="popover-content">
             <p>{{ post.title }}</p>
           </div>
