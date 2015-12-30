@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="943578c8-78dd-45a5-850a-c20a358f417d" name="Default" comment="修改">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/books.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories.html" afterPath="$PROJECT_DIR$/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skills.html" afterPath="$PROJECT_DIR$/skills.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/books.html" afterPath="$PROJECT_DIR$/books.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="superman3125.github.com.iws" />
@@ -152,9 +150,9 @@
         <option value="$PROJECT_DIR$/pages.html" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/books.html" />
         <option value="$PROJECT_DIR$/skills.html" />
         <option value="$PROJECT_DIR$/categories.html" />
+        <option value="$PROJECT_DIR$/books.html" />
       </list>
     </option>
   </component>
@@ -605,13 +603,7 @@
       <workItem from="1451358592035" duration="7878000" />
       <workItem from="1451381478837" duration="273000" />
       <workItem from="1451381764990" duration="1983000" />
-      <workItem from="1451440160719" duration="1723000" />
-    </task>
-    <task id="LOCAL-00142" summary="更新一些-_-">
-      <created>1449105626507</created>
-      <option name="number" value="00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1449105626507</updated>
+      <workItem from="1451440160719" duration="1805000" />
     </task>
     <task id="LOCAL-00143" summary="高效css-_-">
       <created>1449108731087</created>
@@ -901,11 +893,17 @@
       <option name="project" value="LOCAL" />
       <updated>1451441302647</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="修改">
+      <created>1451441888812</created>
+      <option name="number" value="00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1451441888813</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102220000" />
+    <option name="totallyTimeSpent" value="102302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
