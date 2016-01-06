@@ -464,9 +464,12 @@ h1, h2, h3, h4 {
     background: #2c3e50;
 }
 .cv-header{
-    position: relative;
+
     height:238px;
     background: #00a3e6;
+}
+.cv-header-photo{
+    position: relative;
 }
 .arrow-up {
     position: absolute;
