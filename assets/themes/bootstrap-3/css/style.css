@@ -457,3 +457,9 @@ h1, h2, h3, h4 {
     top: 21px;
     left: -100px;
 }
+
+
+.cv-header{
+    height:488px;
+    background: #00a3e6;
+}
