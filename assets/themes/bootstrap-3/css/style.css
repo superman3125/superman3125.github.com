@@ -467,7 +467,9 @@ h1, h2, h3, h4 {
     height:238px;
     background: #00a3e6;
 }
-.cv-header .container{
+.cv-header .container,
+.cv-header .rows,
+.cv-header .col-sm-4{
     height:100%;
 }
 .cv-header-photo{
