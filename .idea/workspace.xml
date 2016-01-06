@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="943578c8-78dd-45a5-850a-c20a358f417d" name="Default" comment="cv">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" afterPath="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -72,8 +71,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76460177" vertical-offset="8650" max-vertical-offset="9215">
-              <caret line="478" column="36" selection-start-line="478" selection-start-column="36" selection-end-line="478" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.7309734" vertical-offset="8650" max-vertical-offset="9215">
+              <caret line="477" column="39" selection-start-line="477" selection-start-column="39" selection-end-line="477" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -704,13 +703,7 @@
       <workItem from="1451381478837" duration="273000" />
       <workItem from="1451381764990" duration="1983000" />
       <workItem from="1451440160719" duration="22912000" />
-      <workItem from="1452069553334" duration="3142000" />
-    </task>
-    <task id="LOCAL-00209" summary="修改">
-      <created>1451447778224</created>
-      <option name="number" value="00209" />
-      <option name="project" value="LOCAL" />
-      <updated>1451447778224</updated>
+      <workItem from="1452069553334" duration="3307000" />
     </task>
     <task id="LOCAL-00210" summary="修改">
       <created>1451447863751</created>
@@ -1000,11 +993,17 @@
       <option name="project" value="LOCAL" />
       <updated>1452072515259</updated>
     </task>
-    <option name="localTasksCounter" value="258" />
+    <task id="LOCAL-00258" summary="cv">
+      <created>1452072702026</created>
+      <option name="number" value="00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1452072702026</updated>
+    </task>
+    <option name="localTasksCounter" value="259" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126551000" />
+    <option name="totallyTimeSpent" value="126716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1488,8 +1487,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76460177" vertical-offset="8650" max-vertical-offset="9215">
-          <caret line="478" column="36" selection-start-line="478" selection-start-column="36" selection-end-line="478" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.7309734" vertical-offset="8650" max-vertical-offset="9215">
+          <caret line="477" column="39" selection-start-line="477" selection-start-column="39" selection-end-line="477" selection-end-column="39" />
           <folding />
         </state>
       </provider>
