@@ -11,3 +11,5 @@ Thumbs.db
 
 # 忽略掉所有文件名是 workspace.xml 的文件
 workspace.xml
+
+.idea/*
