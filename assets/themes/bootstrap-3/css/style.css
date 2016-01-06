@@ -465,7 +465,7 @@ h1, h2, h3, h4 {
 }
 .cv-header{
     position: relative;
-    height:288px;
+    height:238px;
     background: #00a3e6;
 }
 .arrow-up {
@@ -474,7 +474,7 @@ h1, h2, h3, h4 {
     bottom:0px;
     width:0;
     height:0;
-    border-left:30px solid transparent;
-    border-right:30px solid transparent;
-    border-bottom:30px solid #2c3e50;
+    border-left:20px solid transparent;
+    border-right:20px solid transparent;
+    border-bottom:20px solid #2c3e50;
 }
