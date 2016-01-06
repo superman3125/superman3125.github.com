@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="943578c8-78dd-45a5-850a-c20a358f417d" name="Default" comment="cv">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/themes/bootstrap-3/spa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/spa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/themes/bootstrap-3/cv.html" afterPath="$PROJECT_DIR$/_includes/themes/bootstrap-3/cv.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/cv.html" afterPath="$PROJECT_DIR$/_layouts/cv.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -104,8 +101,8 @@
       <file leaf-file-name="cv.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/cv.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24767226" vertical-offset="0" max-vertical-offset="537">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.2122905" vertical-offset="0" max-vertical-offset="537">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -755,13 +752,7 @@
       <workItem from="1451381478837" duration="273000" />
       <workItem from="1451381764990" duration="1983000" />
       <workItem from="1451440160719" duration="22912000" />
-      <workItem from="1452069553334" duration="1935000" />
-    </task>
-    <task id="LOCAL-00200" summary="修改">
-      <created>1451445469173</created>
-      <option name="number" value="00200" />
-      <option name="project" value="LOCAL" />
-      <updated>1451445469173</updated>
+      <workItem from="1452069553334" duration="2007000" />
     </task>
     <task id="LOCAL-00201" summary="修改">
       <created>1451445777825</created>
@@ -1051,11 +1042,17 @@
       <option name="project" value="LOCAL" />
       <updated>1452071255442</updated>
     </task>
-    <option name="localTasksCounter" value="249" />
+    <task id="LOCAL-00249" summary="cv">
+      <created>1452071493624</created>
+      <option name="number" value="00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1452071493624</updated>
+    </task>
+    <option name="localTasksCounter" value="250" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125344000" />
+    <option name="totallyTimeSpent" value="125416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1465,14 +1462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6785714" vertical-offset="0" max-vertical-offset="323">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.3571428" vertical-offset="0" max-vertical-offset="285">
@@ -1537,10 +1526,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6785714" vertical-offset="0" max-vertical-offset="323">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/cv.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24767226" vertical-offset="0" max-vertical-offset="537">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.2122905" vertical-offset="0" max-vertical-offset="537">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding />
         </state>
       </provider>
