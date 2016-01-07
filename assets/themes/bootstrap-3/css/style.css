@@ -475,9 +475,14 @@ h1, h2, h3, h4 {
 .cv-header-photo{
     position: relative;
 }
+.cv-header-photo .info-box-icon{
+    position: absolute;
+    left: calc(50% - 70px);
+    top: 25px;
+}
 .arrow-up {
     position: absolute;
-    left:200px;
+    left:calc(50% - 20px);
     bottom:0px;
     width:0;
     height:0;
