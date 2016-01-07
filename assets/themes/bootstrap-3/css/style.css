@@ -494,14 +494,25 @@ h1, h2, h3, h4 {
     position: relative;
     height:60px;
     line-height:60px;
+    margin-top:100px;
     color:#fff;
+    font-size: 35px;
+    font-weight: 700;
     background:  #2c3e50;
+}
+.cv-tab-black .cv-tab-title,
+.cv-tab-white .cv-tab-title
+{
+    text-indent: 2em;
 }
 .cv-tab-white {
     position: relative;
     height:60px;
     line-height:60px;
+    margin-top:100px;
     color:#2c3e50;
+    font-size: 35px;
+    font-weight: 700;
     background: #ecf0f1;
 }
 
