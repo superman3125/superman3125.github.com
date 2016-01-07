@@ -477,7 +477,7 @@ h1, h2, h3, h4 {
 }
 .cv-header-photo .info-box-icon{
     position: absolute;
-    left: calc(50% - 70px);
+    left: calc(50% - 80px);
     top: 25px;
 }
 .arrow-up {
