@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="943578c8-78dd-45a5-850a-c20a358f417d" name="Default" comment="cv">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" afterPath="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="superman3125.github.com.iws" />
@@ -42,8 +41,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.707635" vertical-offset="0" max-vertical-offset="646">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.7783985" vertical-offset="0" max-vertical-offset="684">
+              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -82,7 +81,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.1666665" vertical-offset="8813" max-vertical-offset="9443">
+            <state vertical-scroll-proportion="-2.0" vertical-offset="8908" max-vertical-offset="9633">
               <caret line="472" column="16" selection-start-line="472" selection-start-column="16" selection-end-line="472" selection-end-column="16" />
               <folding />
             </state>
@@ -714,19 +713,7 @@
       <workItem from="1451381478837" duration="273000" />
       <workItem from="1451381764990" duration="1983000" />
       <workItem from="1451440160719" duration="22912000" />
-      <workItem from="1452069553334" duration="7674000" />
-    </task>
-    <task id="LOCAL-00221" summary="修改">
-      <created>1451459680929</created>
-      <option name="number" value="00221" />
-      <option name="project" value="LOCAL" />
-      <updated>1451459680929</updated>
-    </task>
-    <task id="LOCAL-00222" summary="修改">
-      <created>1451459952002</created>
-      <option name="number" value="00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1451459952002</updated>
+      <workItem from="1452069553334" duration="8389000" />
     </task>
     <task id="LOCAL-00223" summary="修改">
       <created>1451460150071</created>
@@ -1010,11 +997,23 @@
       <option name="project" value="LOCAL" />
       <updated>1452130228888</updated>
     </task>
-    <option name="localTasksCounter" value="270" />
+    <task id="LOCAL-00270" summary="cv">
+      <created>1452130508369</created>
+      <option name="number" value="00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1452130508369</updated>
+    </task>
+    <task id="LOCAL-00271" summary="cv">
+      <created>1452131176910</created>
+      <option name="number" value="00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1452131176910</updated>
+    </task>
+    <option name="localTasksCounter" value="272" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131083000" />
+    <option name="totallyTimeSpent" value="131798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1490,7 +1489,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.1666665" vertical-offset="8813" max-vertical-offset="9443">
+        <state vertical-scroll-proportion="-2.0" vertical-offset="8908" max-vertical-offset="9633">
           <caret line="472" column="16" selection-start-line="472" selection-start-column="16" selection-end-line="472" selection-end-column="16" />
           <folding />
         </state>
@@ -1498,8 +1497,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.707635" vertical-offset="0" max-vertical-offset="646">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.7783985" vertical-offset="0" max-vertical-offset="684">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
           <folding />
         </state>
       </provider>
