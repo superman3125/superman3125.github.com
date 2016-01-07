@@ -503,13 +503,13 @@ h1, h2, h3, h4 {
 .cv-tab-black .cv-tab-title,
 .cv-tab-white .cv-tab-title
 {
-    text-indent: 2em;
+    text-indent: 12px;
 }
 .cv-tab-white {
     position: relative;
     height:60px;
     line-height:60px;
-    margin-top:100px;
+    margin-top:50px;
     color:#2c3e50;
     font-size: 35px;
     font-weight: 700;
