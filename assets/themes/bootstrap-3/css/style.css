@@ -491,12 +491,8 @@ h1, h2, h3, h4 {
     border-bottom:20px solid #2c3e50;
 }
 .cv-tab-black {
-    border-left: 300px solid #2c3e50;
-    border-right: 20px solid transparent;
-    border-top: 30px solid #2c3e50;
+    background:  #2c3e50;
 }
 .cv-tab-white {
-    border-left: 300px solid #ecf0f1;
-    border-right: 20px solid transparent;
-    border-top: 30px solid #ecf0f1;
+    background: #ecf0f1;
 }
