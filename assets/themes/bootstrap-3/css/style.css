@@ -491,8 +491,14 @@ h1, h2, h3, h4 {
     border-bottom:20px solid #2c3e50;
 }
 .cv-tab-black {
+    height:60px;
+    line-height:60px;
+    color:#fff;
     background:  #2c3e50;
 }
 .cv-tab-white {
+    height:60px;
+    line-height:60px;
+    color:#2c3e50;
     background: #ecf0f1;
 }
