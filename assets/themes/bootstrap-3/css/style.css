@@ -491,12 +491,14 @@ h1, h2, h3, h4 {
     border-bottom:20px solid #2c3e50;
 }
 .cv-tab-black {
+    position: relative;
     height:60px;
     line-height:60px;
     color:#fff;
     background:  #2c3e50;
 }
 .cv-tab-white {
+    position: relative;
     height:60px;
     line-height:60px;
     color:#2c3e50;
@@ -504,9 +506,10 @@ h1, h2, h3, h4 {
 }
 
 .cv-tab-black-triangle{
-    float:right;
+    position: absolute;
+    right: 0px;
     width: 0;
     height: 0;
     border-left: 40px solid transparent;
-    border-bottom: 60px solid #2c3e50;
+    border-bottom: 60px solid #00a3e6;
 }
