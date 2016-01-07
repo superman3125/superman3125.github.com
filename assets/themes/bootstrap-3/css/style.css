@@ -502,3 +502,11 @@ h1, h2, h3, h4 {
     color:#2c3e50;
     background: #ecf0f1;
 }
+
+.cv-tab-black-triangle{
+    float:right;
+    width: 0;
+    height: 0;
+    border-left: 40px solid transparent;
+    border-bottom: 60px solid #2c3e50;
+}
