@@ -81,8 +81,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49646643" vertical-offset="9314" max-vertical-offset="10108">
-              <caret line="505" column="19" selection-start-line="505" selection-start-column="19" selection-end-line="505" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.59717315" vertical-offset="9352" max-vertical-offset="10089">
+              <caret line="510" column="16" selection-start-line="510" selection-start-column="16" selection-end-line="510" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -716,13 +716,7 @@
       <workItem from="1452069553334" duration="9255000" />
       <workItem from="1452132137528" duration="150000" />
       <workItem from="1452133152508" duration="68000" />
-      <workItem from="1452158111717" duration="2340000" />
-    </task>
-    <task id="LOCAL-00233" summary="修改">
-      <created>1451463945935</created>
-      <option name="number" value="00233" />
-      <option name="project" value="LOCAL" />
-      <updated>1451463945935</updated>
+      <workItem from="1452158111717" duration="2437000" />
     </task>
     <task id="LOCAL-00234" summary="修改">
       <created>1451464233874</created>
@@ -1012,11 +1006,17 @@
       <option name="project" value="LOCAL" />
       <updated>1452160236873</updated>
     </task>
-    <option name="localTasksCounter" value="282" />
+    <task id="LOCAL-00282" summary="cv">
+      <created>1452160458124</created>
+      <option name="number" value="00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1452160458125</updated>
+    </task>
+    <option name="localTasksCounter" value="283" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135222000" />
+    <option name="totallyTimeSpent" value="135319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1484,8 +1484,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49646643" vertical-offset="9314" max-vertical-offset="10108">
-          <caret line="505" column="19" selection-start-line="505" selection-start-column="19" selection-end-line="505" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.59717315" vertical-offset="9352" max-vertical-offset="10089">
+          <caret line="510" column="16" selection-start-line="510" selection-start-column="16" selection-end-line="510" selection-end-column="16" />
           <folding />
         </state>
       </provider>
