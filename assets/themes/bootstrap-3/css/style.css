@@ -464,7 +464,7 @@ h1, h2, h3, h4 {
     background: #2c3e50;
 }
 .cv-header{
-    height:238px;
+    height:300px;
     background: #00a3e6;
 }
 .cv-header .container,
@@ -478,7 +478,7 @@ h1, h2, h3, h4 {
 .cv-header-photo .info-box-icon{
     position: absolute;
     left: calc(50% - 80px);
-    top: 25px;
+    top: 60px;
 }
 .arrow-up {
     position: absolute;
