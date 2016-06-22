@@ -8,7 +8,7 @@ $(function(){
         }
     );
 
-    $('.container img').on('click',function(){
+    $('.post-full img').on('click',function(){
         $("#pictureDialog").find('img').attr('src',$(this).attr('src'));
         $("#pictureDialog").modal('show');
     });
