@@ -504,6 +504,19 @@ h1, h2, h3, h4 {
 .cv-tab-white .cv-tab-title {
     text-indent: 12px;
 }
+.cv-tab-black .cv-tab-title .yd-fadeIn,
+.cv-tab-white .cv-tab-title .yd-fadeIn {
+    animation-duration: 3s;
+    animation-name: yd-fadeIn;
+}
+@keyframes yd-fadeIn {
+    from {
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
 .cv-tab-white {
     position: relative;
     height:60px;
